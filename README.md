@@ -1,5 +1,19 @@
-# Vue 3 + Vite
+# 📋 AV2 To-Do List
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este projeto é uma aplicação de gerenciamento de tarefas desenvolvida com Vue.js 3, focada em performance e modularidade.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Tecnologias Utilizadas
+- **Vue.js 3 (Composition API)**: Reatividade moderna.
+- **Pinia**: Gerenciamento de estado global escalável.
+- **Vue Router**: Navegação SPA (Single Page Application).
+- **Vite**: Build tool de alta performance.
+
+## ✨ Funcionalidades
+1. **CRUD Completo**: Adicionar, listar e remover tarefas.
+2. **Filtros Inteligentes**: Visualizar tarefas Pendentes, Concluídas ou Todas.
+3. **Persistência de Dados**: Uso de LocalStorage para salvar progresso.
+4. **UX Premium**: Animações de entrada e saída de lista.
+
+## 📦 Como rodar
+1. `npm install`
+2. `npm run dev`
